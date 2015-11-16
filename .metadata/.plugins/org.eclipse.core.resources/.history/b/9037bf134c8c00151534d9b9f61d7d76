@@ -1,10 +1,10 @@
-package edu.edu.iut.gui.widget.agenda;
+package edu.iut.gui.widget.agenda;
 
 import java.awt.GridLayout;
 import javax.swing.JPanel;
 
 
-import edu.edu.iut.gui.widget.agenda.AgendaPanelFactory.ActiveView;
+import edu.iut.gui.widget.agenda.AgendaPanelFactory.ActiveView;
 
 
 public class WeekPanel extends EventPanel {

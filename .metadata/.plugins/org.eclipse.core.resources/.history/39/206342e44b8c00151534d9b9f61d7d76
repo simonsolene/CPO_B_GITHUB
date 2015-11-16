@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import edu.edu.iut.gui.widget.agenda.WeekPanel.WeekDayNames;
+import edu.iut.gui.widget.agenda.WeekPanel.WeekDayNames;
 
 public class AgendaPanelFactory {
 

@@ -1,12 +1,13 @@
 package edu.edu.iut.gui.widget.agenda;
 
-import java.awt.GridLayout;import java.util.ArrayList;
+import java.awt.GridLayout;
+import java.util.ArrayList;
 
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import edu.edu.iut.gui.widget.agenda.AgendaPanelFactory.ActiveView;
-import edu.edu.iut.gui.widget.agenda.WeekPanel.WeekDayNames;
+import edu.iut.gui.widget.agenda.AgendaPanelFactory.ActiveView;
+import edu.iut.gui.widget.agenda.WeekPanel.WeekDayNames;
 
 public class DayPanel extends EventPanel {
 

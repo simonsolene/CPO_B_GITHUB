@@ -1,4 +1,4 @@
-package edu.edu.iut.gui.widget.agenda;
+package edu.iut.gui.widget.agenda;
 
 import java.awt.CardLayout;
 import java.awt.event.ActionEvent;

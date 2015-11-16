@@ -1,15 +1,16 @@
-package edu.edu.iut.gui.frames;
+package edu.iut.gui.frames;
 
-import java.awt.CardLayout;import java.awt.event.WindowAdapter;
+import java.awt.CardLayout;
+import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JSplitPane;
 
-import edu.edu.iut.gui.widget.agenda.AgendaPanelFactory;
-import edu.edu.iut.gui.widget.agenda.ControlAgendaViewPanel;
-import edu.edu.iut.gui.widget.agenda.AgendaPanelFactory.ActiveView;
+import edu.iut.gui.widget.agenda.AgendaPanelFactory;
+import edu.iut.gui.widget.agenda.ControlAgendaViewPanel;
+import edu.iut.gui.widget.agenda.AgendaPanelFactory.ActiveView;
 
 
 public class SchedulerFrame extends JFrame {
